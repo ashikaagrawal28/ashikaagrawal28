@@ -1,7 +1,6 @@
 
-
 # 💫 About Me:
-✨<br>👩🏻‍💻 I’m a 1st year CSE student<br>👯 I’m looking to collaborate on tech-driven projects that solve real-world problems<br>🤝 I’m passionate about learning new skills and applying them<br>🌱 I’m currently learning :  c++,  javascript,  artificial intelligence<br>🚀 Aspiring Software developer and entrepreneur<br>⚡ Fun fact - I believe every problem can be solved with logic, coffee, and a cat nearby
+<br>👩🏻‍💻 I’m a 1st year CSE student<br>👯 I’m looking to collaborate on tech-driven projects that solve real-world problems<br>🤝 I’m passionate about learning new skills and applying them<br>🌱 I’m currently learning :  c++,  javascript,  artificial intelligence<br>🚀 Aspiring Software developer and entrepreneur<br>⚡ Fun fact - I believe every problem can be solved with logic, coffee, and a cat nearby
 
 
 ## 🌐 Socials:
