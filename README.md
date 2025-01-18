@@ -1,5 +1,6 @@
 # 💫 About Me:
-👩🏻‍💻 I’m a 1st year CSE student<br>👯 I’m looking to collaborate on tech-driven projects that solve real-world problems<br>🤝 I’m passionate about learning new skills and applying them<br>🌱 I’m currently learning :  c++,  javascript,  artificial intelligence<br>🚀 Aspiring Software developer and entrepreneur<br>⚡ Fun fact - I believe every problem can be solved with logic, coffee, and a cat nearby
+Hi there 👋🏻 , I am Ashika Agrawal<br>
+👩🏻‍💻 I’m a 1st year CSE student<br>👯 I’m looking to collaborate on tech-driven projects that solve real-world problems<br>🤝 I’m passionate about learning new skills and applying them<br>🌱 I’m currently learning :  c++,  javascript,  artificial intelligence<br>🚀 Aspiring Software developer and entrepreneur<br>⚡ Fun fact - I believe every problem can be solved with logic, coffee, and a cat nearby.
 
 
 ## 🌐 Socials:
@@ -12,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashikaagrawal28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikaagrawal28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashikaagrawal28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
